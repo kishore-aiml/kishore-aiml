@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:A855F7&height=200&section=header&text=KISHORE%20J&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Student%20%7C%20Aspiring%20AI/ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%F0%9F%A4%96;Turning+data+into+decisions%2C+one+model+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%F0%9F%A4%96;Turning+ideas+into+reality" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 </td>
 <td align="center" width="96">
 <a href="https://github.com/kishore-aiml" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+<img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="55" height="55" alt="GitHub"/>
 <br/>GitHub
 </a>
 </td>
@@ -39,7 +39,7 @@
 </td>
 <td align="center" width="96">
 <a href="https://www.instagram.com/___kishh____?igsi=MTRhaDk2ZGY3OXkzbA%3D%3D" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
+<img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="55" height="55" alt="Instagram"/>
 <br/>Instagram
 </a>
 </td>
@@ -63,7 +63,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="Generative AI & LLMs"/><br/>Generative AI & LLMs<br/><sub>(Exploring)</sub></td>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=ystDHONGZ0zL&format=png&color=000000" width="55" height="55" alt="Generative AI & LLMs"/><br/>Generative AI & LLMs<br/><sub>(Exploring)</sub></td>
 </tr>
 </table>
 </div>
@@ -84,7 +84,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Machine Learning"/><br/>Machine Learning<br/><sub>(Learning)</sub></td>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=4hGUZoWc6Eyu&format=png&color=000000" width="55" height="55" alt="Machine Learning"/><br/>Machine Learning<br/><sub>(Learning)</sub></td>
 </tr>
 </table>
 </div>
@@ -117,7 +117,7 @@
 <table>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/>Git</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/>GitHub</td>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="55" height="55" alt="GitHub"/><br/>GitHub</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br/>VS Code</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter Notebook"/><br/>Jupyter Notebook</td>
 </tr>
@@ -130,26 +130,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-aiml&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-aiml&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117" width="48%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=kishore-aiml&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 
 </div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-aiml&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
 
 > *"The best way to predict the future is to build it."*
 
